@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to PELE-TWO
+This website stands as a documentary ressource for all those who achieve a degree in either electrical installation or electrical planification. 
+
+Idealy for those who follows a swiss oriented formation that leads to a Certificat Federal of capacity. But probably usefull for a lot of others out there.
 
 You can use the [editor on GitHub](https://github.com/BKovsky/PELE2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
