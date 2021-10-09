@@ -5,7 +5,7 @@ This website is edited with the Github page editor. It is divided in several cha
 
 The goal of this page isn't to provide a full and structurated course on electrical technics and will never replace a proper lesson given by a talented and trained teacher. The purpose here is more to aggregate and make a bit of order in the vast amount of videos, files and links that my classmates and I shared on our WA class group. From now, what at the end would have been lost into the infinity of the WA thread in a what we could call a "black hole" style gestion of documentation (Anything that enters in it can never goes out again) will now at least be a bit more organized.
 
-Often really interesting though also most of the time totally useless in an academic perspective, all those files are clearly meant either to entertain yourself or to satisfy your curiosity in a way a good teacher would never succeed to do (Except maybe for Mister OM of B, who's clearly entertaining but also as messed up as our Whattsapp Thread).
+Often really interesting though also most of the time totally useless in an academic perspective, all those files are clearly meant either to entertain yourself or to satisfy your curiosity in a way a good teacher would never succeed to do (Except maybe M. OM of B, who's clearly as brilliant as entertaining but also as messy as our WA thread).
 
 You can use the [editor on GitHub](https://github.com/BKovsky/PELE2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
