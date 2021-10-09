@@ -15,10 +15,7 @@ Often really interesting though also most of the time totally useless in an acad
 </div>
 
 ## Table of contents
-<div align="justify">
-  <p>
 Click on any subject to see the files associated
-  </p>
   
   [**1. Electrotechnic**](/Electrotechnic)
   
