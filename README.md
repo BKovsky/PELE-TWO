@@ -17,7 +17,7 @@ Often really interesting though also most of the time totally useless in an acad
 ## Table of contents
 Click on any subject to see the files associated
   
-  [**1. Electrotechnic**](/##Electrotechnic)
+  [**1. Electrotechnic**](/https://github.com/BKovsky/PELE2-Electrotechnic)
    _Stuff1, Stuff2, Stuff3_
   
   **2. Mathematics**
