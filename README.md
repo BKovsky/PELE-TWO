@@ -17,23 +17,18 @@ Often really interesting though also most of the time totally useless in an acad
 ## Table of contents
 Click on any subject to see the files associated
   
-  [**1. Electrotechnic**](/Electrotechnic)
-  
+  [**1. Electrotechnic**](/##Electrotechnic)
    _Stuff1, Stuff2, Stuff3_
   
   **2. Mathematics**
-  
    _Stuff1, Stuff2, Stuff3_
   
   **3. Electronics**
-  
    _Condos, Diodes, Résistances_
   
   **4. Physics**
-  
    _Stuff1, Stuff2, Stuff3_
   
-</div>
 
 ## Electrotechnic
 
