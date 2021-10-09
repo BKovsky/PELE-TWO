@@ -19,13 +19,26 @@ Often really interesting though also most of the time totally useless in an acad
   <p>
 Click on any subject to see the files associated
   </p>
-  <p>
-    **1. Electrotechnic**
-  </p>
-2. 
+  
+  [**1. Electrotechnic**](/Electrotechnic)
+  
+   _Stuff1, Stuff2, Stuff3_
+  
+  **2. Mathematics**
+  
+   _Stuff1, Stuff2, Stuff3_
+  
+  **3. Electronics**
+  
+   _Condos, Diodes, Résistances_
+  
+  **4. Physics**
+  
+   _Stuff1, Stuff2, Stuff3_
+  
 </div>
 
-## <A NAME="Electrotechnic">Electrotechnic</A>
+## Electrotechnic
 
  
 You can use the [editor on GitHub](https://github.com/BKovsky/PELE2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
