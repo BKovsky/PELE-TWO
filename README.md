@@ -3,6 +3,10 @@ This website stands as a documentary ressource for all those who proceed a degre
 
 This website is edited with the Github page editor. It is divided in several chapters, each one of these corresponding to a topic within the electrical planification formation.
 
+The goal of this page isn't to provide a full and structurated course of electrical technics and will not replace a proper lesson given by a talented and trained teacher. The purpose here is more to aggregate and make a bit of order in the vast amount of videos, files and links that my classmates and I shared on our WA class group. Which, at the end, would have been forgotten into the void of the thread line.
+
+Often really interesting though also most of the time totally uselss in an academic perspective, all those files are clearly meant either to entertain yourself or to satisfy your curiosity in a way a good teacher would never do.
+
 You can use the [editor on GitHub](https://github.com/BKovsky/PELE2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
