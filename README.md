@@ -1,5 +1,5 @@
 ## Welcome to PELE-TWO
-This website stands as a documentary ressource for all those who achieve a degree in either electrical installation or electrical planification. 
+This website stands as a documentary ressource for all those who proceed a degree in either electrical installation or electrical planification. 
 
 Ideally destinated to those who follows a swiss formation that leads to a Certificat Federal of capacity. But probably usefull for a lot of others out there.
 
