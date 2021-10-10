@@ -1,32 +1,35 @@
 ## Welcome to PELE-TWO
 <div align="justify">
   <p>
-This website stands as a documentary ressource for all those who proceed a degree in either electrical installation or electrical planification. Ideally destinated to those   who follows a swiss formation that leads to a Certificat Federal of capacity. But probably also usefull to a lot of other people out there on this planet.
+Ce site web est une ressource documentaire à destination de celles et ceux qui suivent un cursus menant à l’obtention d’un diplôme en planification électrique. Idéalement calibré pour ceux qui suivent une formation suisse conduisant à un Certificat Fédéral de capacité. Mais probablement aussi utile à beaucoup d’autres personnes sur cette planète.
   </p>
   <p>
-This website is edited with the Github page editor. It is divided in several chapters, each one of these corresponding to a topic within the electrical planification formation.
+Ce site a été créé avec l’éditeur de page Github. Il est divisé en plusieurs chapitres, chacun d’entre eux correspondant à un thème important de la formation de planificateur-électricien.
   </p>
   <p>
-The goal of this page isn't to provide a full and structurated course on electrical technics and will never replace a proper lesson given by a talented and trained teacher. The purpose here is more to aggregate and make a bit of order in the vast amount of videos, files and links that my classmates and I shared on our WA class group. From now, what at the end would have been lost into the infinity of the WA thread in a what we could call a "black hole" style gestion of documentation (Anything that enters in it can never goes out again) will now at least be a bit more organized.
+Le but de cette page n’est pas de fournir un cours complet et structuré sur les techniques du domaine électrique et ne remplacera jamais une leçon distillée par un enseignant talentueux et formé. Le but ici est plutôt d’agréger et de faire un peu d’ordre dans la grande quantité de vidéos, de fichiers et de liens que mes camarades de classe et moi-même partageons sur notre groupe de classe Whatsapp. À partir de maintenant, ce qui au final aurait dû être perdu à jamais dans l’infinité de notre fil WA (gestion de la documentation de style « trou noir » - tout ce qui y entre ne peut plus en ressortir) sera désormais un peu mieux organisé.
   </p> 
   <p>
-Often very interesting though also most of the time totally useless in an academic perspective, all those files are clearly meant either to entertain yourself or to satisfy your curiosity in a way a good teacher would never succeed to do (Except maybe M. OM of B, who's clearly as brilliant as entertaining but also as messy as our WA thread quoted above).
+Souvent très intéressants bien que totalement inutiles la plupart du temps d’un point de vue académique, tous ces fichiers sont clairement destinés soit à vous divertir, soit à satisfaire votre curiosité d’une manière qu’un bon professeur ne réussirait jamais à transmettre (sauf peut-être M. OM de B, qui est clairement aussi brillant que divertissant mais tout autant difficile à suivre que notre fil WA cité plus haut).
+  </p>
+  <p>
+Bonne navigation à vous.
   </p>
 </div>
 
-## Table of contents
-Click on any subject to see the files associated
+## Table des matières
+Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   
-  [**1. Electrotechnic**](https://bkovsky.github.io/PELE2-Electrotechnic/)
+  [**1. Electrotechnique**](https://bkovsky.github.io/PELE2-Electrotechnic/)
    _Stuff1, Stuff2, Stuff3_
   
-  **2. Mathematics**
+  **2. Mathematique**
    _Stuff1, Stuff2, Stuff3_
   
-  **3. Electronics**
-   _Capacitors, Diodes, Resistances_
+  **3. Electronique**
+   _Condensateurs, Diodes, Résistances_
   
-  **4. Physics**
+  **4. Physique**
    _Stuff1, Stuff2, Stuff3_
   
 
