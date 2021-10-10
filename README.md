@@ -20,19 +20,19 @@ Bonne navigation à vous.
 ## Table des matières
 Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   
-  [**1. Electrotechnique**](https://bkovsky.github.io/PELE2-Electrotechnic/)<br>
+  [**1. Electrotechnique**](https://bkovsky.github.io/PELE-TWO-Electrotechnique/)<br>
    _Loi d'ohm, source chimique d'électricité, Stuff3_
   
-  **2. Mathematique**<br>
-   _Méthode algébrque, logique booléenne, statistique, bases 2-8-16_
+  [**2. Mathematique**](https://bkovsky.github.io/PELE-TWO-Mathematique/)<br>
+   _Méthode algébrique, logique booléenne, statistique, bases 2-8-16_
   
-  **3. Electronique**<br>
+  [**3. Electronique**](https://bkovsky.github.io/PELE-TWO-Electronique/)<br>
    _Condensateurs, diodes, résistances_
   
-  **4. Physique**<br>
-   _Grandeurs & Unités SI, mécanique newtonienne, diagrammes de Sankey_
+  [**4. Physique**](https://bkovsky.github.io/PELE-TWO-Physique/)<br>
+   _Grandeurs & Unités SI, mécanique newtonienne, diagramme de Sankey_
   
-  [**x. yyy**](https://bkovsky.github.io/PELE2-yyy/)<br>
+  [**x. yyy**](https://bkovsky.github.io/PELE-TWO-yyy/)<br>
    _Stuff1, Stuff2, Stuff3_
 
  
