@@ -1,4 +1,4 @@
-## Welcome to PELE-TWO
+## Bienvenue sur PELE-TWO
 <div align="justify">
   <p>
 Ce site web est une ressource documentaire à destination de celles et ceux qui suivent un cursus menant à l’obtention d’un diplôme en planification électrique. Idéalement calibré pour ceux qui suivent une formation suisse conduisant à un Certificat Fédéral de capacité. Mais probablement aussi utile à beaucoup d’autres personnes sur cette planète.
