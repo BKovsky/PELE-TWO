@@ -20,7 +20,7 @@ Bonne navigation à vous.
 ## Table des matières
 Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   
-  [**1. Electrotechnique**](https://bkovsky.github.io/PELE2-Electrotechnic/)
+  [**1. Electrotechnique**](https://bkovsky.github.io/PELE2-Electrotechnic/)<br>
    _Stuff1, Stuff2, Stuff3_
   
   **2. Mathematique**
