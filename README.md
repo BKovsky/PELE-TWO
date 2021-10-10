@@ -24,7 +24,7 @@ Click on any subject to see the files associated
    _Stuff1, Stuff2, Stuff3_
   
   **3. Electronics**
-   _Condos, Diodes, Résistances_
+   _Capacitors, Diodes, Resistances_
   
   **4. Physics**
    _Stuff1, Stuff2, Stuff3_
