@@ -32,6 +32,8 @@ Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   **4. Physique**
    _Stuff1, Stuff2, Stuff3_
   
+  [**x. yyy**](https://bkovsky.github.io/PELE2-yyy/)<br>
+   _Stuff1, Stuff2, Stuff3_
 
  
 You can use the [editor on GitHub](https://github.com/BKovsky/PELE2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
