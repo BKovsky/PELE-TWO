@@ -21,16 +21,16 @@ Bonne navigation à vous.
 Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   
   [**1. Electrotechnique**](https://bkovsky.github.io/PELE2-Electrotechnic/)<br>
-   _Stuff1, Stuff2, Stuff3_
+   _Loi d'ohm, source chimique d'électricité, Stuff3_
   
-  **2. Mathematique**
-   _Stuff1, Stuff2, Stuff3_
+  **2. Mathematique**<br>
+   _Méthode algébrque, logique booléenne, statistique, bases 2-8-16_
   
-  **3. Electronique**
-   _Condensateurs, Diodes, Résistances_
+  **3. Electronique**<br>
+   _Condensateurs, diodes, résistances_
   
-  **4. Physique**
-   _Stuff1, Stuff2, Stuff3_
+  **4. Physique**<br>
+   _Grandeurs & Unités SI, mécanique newtonienne, diagrammes de Sankey_
   
   [**x. yyy**](https://bkovsky.github.io/PELE2-yyy/)<br>
    _Stuff1, Stuff2, Stuff3_
