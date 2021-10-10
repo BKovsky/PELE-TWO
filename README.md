@@ -30,8 +30,6 @@ Click on any subject to see the files associated
    _Stuff1, Stuff2, Stuff3_
   
 
-## Electrotechnic
-
  
 You can use the [editor on GitHub](https://github.com/BKovsky/PELE2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
