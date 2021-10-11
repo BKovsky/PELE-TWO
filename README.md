@@ -18,7 +18,7 @@ Bonne navigation à vous.
 </div>
 
 
-### Table des matières
+# Table des matières
 Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   
   [**1. Electrotechnique**](https://bkovsky.github.io/PELE-TWO-Electrotechnique/)<br>
