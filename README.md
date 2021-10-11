@@ -19,7 +19,7 @@ Bonne navigation à vous.
 
 
 # Table des matières
-Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
+Cliquez sur le thème de votre choix pour accéder aux fichiers correspondants:
   
   [**1. Electrotechnique**](https://bkovsky.github.io/PELE-TWO-Electrotechnique/)<br>
    _Loi d'ohm, source chimique d'électricité, et autres trucs_
