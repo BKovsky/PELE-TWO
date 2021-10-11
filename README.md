@@ -21,7 +21,7 @@ Bonne navigation à vous.
 Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   
   [**1. Electrotechnique**](https://bkovsky.github.io/PELE-TWO-Electrotechnique/)<br>
-   _Loi d'ohm, source chimique d'électricité, Stuff3_
+   _Loi d'ohm, source chimique d'électricité, et autres trucs_
   
   [**2. Mathematique**](https://bkovsky.github.io/PELE-TWO-Mathematique/)<br>
    _Méthode algébrique, logique booléenne, statistique, bases 2-8-16_
