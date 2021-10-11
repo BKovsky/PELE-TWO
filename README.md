@@ -17,7 +17,7 @@ Bonne navigation à vous.
   </p>
 </div>
 
-## Table des matières
+### Table des matières
 Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   
   [**1. Electrotechnique**](https://bkovsky.github.io/PELE-TWO-Electrotechnique/)<br>
@@ -32,8 +32,8 @@ Cliquez sur le thème de votre choix pour accéder aux fichiers correspondant
   [**4. Physique**](https://bkovsky.github.io/PELE-TWO-Physique/)<br>
    _Grandeurs & Unités SI, mécanique newtonienne, diagramme de Sankey_
   
-  [**x. yyy**](https://bkovsky.github.io/PELE-TWO-yyy/)<br>
-   _Stuff1, Stuff2, Stuff3_
+  "[**x. yyy**](https://bkovsky.github.io/PELE-TWO-yyy/)<br>
+   _Stuff1, Stuff2, Stuff3_"
 
  
 You can use the [editor on GitHub](https://github.com/BKovsky/PELE2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
